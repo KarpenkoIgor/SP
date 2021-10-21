@@ -1,0 +1,5 @@
+﻿  lab03.cpp
+C:\Nik\Laby\Sp_5\SP\lab03\lab03\lab03.cpp(140,17): warning C4101: ps: неиспользованная локальная переменная
+C:\Nik\Laby\Sp_5\SP\lab03\lab03\lab03.cpp(221,19): warning C4101: arr: неиспользованная локальная переменная
+C:\Nik\Laby\Sp_5\SP\lab03\lab03\lab03.cpp(234,19): warning C4101: arr: неиспользованная локальная переменная
+  lab03.vcxproj -> C:\Nik\Laby\Sp_5\SP\lab03\Debug\lab03.exe

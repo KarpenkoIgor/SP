@@ -1,0 +1,4 @@
+﻿  lab04.cpp
+C:\Nik\Laby\Sp_5\SP\lab04\lab04\lab04.cpp(151,9): warning C4101: hdc: неиспользованная локальная переменная
+C:\Nik\Laby\Sp_5\SP\lab04\lab04\lab04.cpp(230,13): warning C4101: hbm: неиспользованная локальная переменная
+  lab04.vcxproj -> C:\Nik\Laby\Sp_5\SP\lab04\Debug\lab04.exe

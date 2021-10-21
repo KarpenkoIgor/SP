@@ -1,0 +1,5 @@
+﻿  lab02.cpp
+C:\Nik\Laby\Sp_5\SP\lab02\lab02\lab02.cpp(195,33): warning C4244: =: преобразование "LRESULT" в "WORD", возможна потеря данных
+C:\Nik\Laby\Sp_5\SP\lab02\lab02\lab02.cpp(126,9): warning C4101: hdc: неиспользованная локальная переменная
+C:\Nik\Laby\Sp_5\SP\lab02\lab02\lab02.cpp(127,17): warning C4101: ps: неиспользованная локальная переменная
+  lab02.vcxproj -> C:\Nik\Laby\Sp_5\SP\lab02\Debug\lab02.exe
