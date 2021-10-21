@@ -1,0 +1,4 @@
+﻿  lab052.cpp
+C:\Nik\Laby\Sp_5\not_ended\lab05\lab052\lab052.cpp(120,1): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowW"
+C:\Nik\Laby\Sp_5\not_ended\lab05\lab052\lab052.cpp(162,9): warning C4065: оператор switch содержит метку "default", но не содержит ни одной метки "case"
+  lab052.vcxproj -> C:\Nik\Laby\Sp_5\not_ended\lab05\Debug\lab052.exe
