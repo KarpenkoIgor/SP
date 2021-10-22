@@ -1,0 +1,7 @@
+﻿  lab06.cpp
+C:\Nik\Laby\Sp_5\not_ended\lab06\lab06\lab06.cpp(226,98): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Nik\Laby\Sp_5\not_ended\lab06\lab06\lab06.cpp(226,75): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Nik\Laby\Sp_5\not_ended\lab06\lab06\lab06.cpp(226,50): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Nik\Laby\Sp_5\not_ended\lab06\lab06\lab06.cpp(226,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Nik\Laby\Sp_5\not_ended\lab06\lab06\lab06.cpp(227,31): warning C4244: +=: преобразование "double" в "FLOAT", возможна потеря данных
+  lab06.vcxproj -> C:\Nik\Laby\Sp_5\not_ended\lab06\Debug\lab06.exe

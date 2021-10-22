@@ -1,0 +1,3 @@
+﻿  lab08.cpp
+C:\Nik\Laby\Sp_5\not_ended\lab08\lab08\lab08.cpp(115,1): warning C4002: слишком много аргументов для вызова макроса, подобного функции, "CreateWindowW"
+  lab08.vcxproj -> C:\Nik\Laby\Sp_5\not_ended\lab08\Debug\lab08.exe
